@@ -1,4 +1,4 @@
 # ios
-to do list \n
-\tadd a delay\n
-\trestart button\n
+# to do
+## add a delay
+## add a restart button
