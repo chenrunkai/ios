@@ -83,7 +83,21 @@ class ViewController: UIViewController {
             button.backgroundColor=#colorLiteral(red: 1, green: 1, blue: 1, alpha: 1)
         }
     }
-
+    
+    @IBAction func RestartButton(_ sender: UIButton) {
+        for index in CardButtons{
+            index.setTitle("", for: UIControl.State.normal)
+            index.backgroundColor=#colorLiteral(red: 1, green: 0.1495025158, blue: 0.07090275735, alpha: 1)
+            Win.text="enjoy the game"
+            S1 = ""
+            S2 = ""
+            N1 = 0
+            N2 = 0
+            RightNumber = 0
+            WrongNumber = 0
+            FlipCount = 0
+        }
+        
+    }
+    
 }
-
-
