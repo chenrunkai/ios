@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ViewController.TouchCard(_:):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "N2">
+            </PersistentString>
+            <PersistentString
+               value = "S1">
+            </PersistentString>
+            <PersistentString
+               value = "N1">
+            </PersistentString>
+            <PersistentString
+               value = "S2">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
